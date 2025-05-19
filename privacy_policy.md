@@ -1,10 +1,10 @@
 Privacy Policy
 Effective Date: April 21, 2025
 
-This application is a personal daily affirmations tool designed for self-reflection and experimental purposes only. It does not provide any medical, psychological, or therapeutic services. We respect your privacy and are committed to protecting your information.
+This application is a personal daily affirmations tool for self-reflection and experimental purposes only. It does not provide any medical, psychological, or therapeutic services. We respect your privacy and are committed to protecting your information.
 
 1. Information We Collect
-The app allows users to upload a "witness" in the form of an image. This image is stored locally on your device or securely in the cloud (if applicable), and is not shared with any third-party services.
+The app allows users to upload an image as a " witness." This image is stored locally on the device or securely in the cloud (if applicable) and is not shared with any third-party services.
 
 We do not collect or use:
 

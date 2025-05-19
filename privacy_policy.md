@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: April 21, 2025
+Effective Date: May 19, 2025
 
 This application is a personal daily affirmations tool for self-reflection and experimental purposes only. It does not provide any medical, psychological, or therapeutic services. We respect your privacy and are committed to protecting your information.
 
